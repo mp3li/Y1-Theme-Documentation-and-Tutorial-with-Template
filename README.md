@@ -1,11 +1,17 @@
 ![Innioasis Y1 / Theme Documentation and Tutorial](https://img.shields.io/badge/Innioasis%20Y1-Theme%20Documentation%20and%20Tutorial-8A2BE2?labelColor=2E2E2E)
 ![Skill Level / Complete Beginners to Advanced Users](https://img.shields.io/badge/Skill%20Level-Complete%20Beginners%20to%20Advanced%20Users-8A2BE2?labelColor=2E2E2E)
 ![Features / Every Single Theme Option](https://img.shields.io/badge/Features-Every%20Single%20Theme%20Option-8A2BE2?labelColor=2E2E2E)
+![Includes / Theme Template](https://img.shields.io/badge/Includes-Theme%20Template-8A2BE2?labelColor=2E2E2E)
 ![Development / Active](https://img.shields.io/badge/Development-Active-8A2BE2?labelColor=2E2E2E)
 
 # Y1 Theme Documentation and Tutorial for Beginners
 
-This documentation reflects everything currently known and tested about Innioasis Y1 theming. As theme development evolves, the Y1 firmware updates, and new discoveries are made, this guide will continue to be updated. This documentation and tutorial are actively maintained resources.
+This documentation reflects everything currently known and tested about Innioasis Y1 theming. As theme development evolves, the Y1 firmware updates, and new discoveries are made, this guide will continue to be updated. This documentation and tutorial are actively maintained resources. 
+
+Also included in this documentation is a template theme folder called myY1themetemplate, with:
+- fully organized folders for all your theme assets
+- a config file ready for you to fill in, that already has correct file paths to the folder structure
+- a blank license file
 
 This documentation and tutorial may not be hosted or shared elsewhere, in whole or in part, and may only be hosted on mp3li official channels. For business inquiries please contact mp3li via official channels such as Github, Patreon, Reddit, or TikTok (socials in bio and bottom of this documentation).
 
@@ -50,7 +56,7 @@ If you used this guide in any way to create a theme, please give this repo a sta
 
 - [Simple steps on how to create your own custom theme by editing an existing theme and how to properly attribute](#how-to-edit-an-existing-theme-and-how-to-properly-attribute)
 
-- [Simple steps on how to create your own custom theme from scratch](#how-to-create-a-theme-from-scratch)
+- [Simple steps on how to create your own custom theme from scratch + using myY1themetemplate](#how-to-create-a-theme-from-scratch-using-myy1themetemplate)
 
 - [Tips on what file type, sizes your images can be, and color format](#tips-on-file-type-image-sizes-and-color-format)
 
@@ -720,7 +726,9 @@ And just like you, I hold myself to these same standards. If I was to remix some
 
 ---
 
-### How to Create a Theme from Scratch:
+<a id="how-to-create-a-theme-from-scratch-using-myy1themetemplate"></a>
+
+### How to Create a Theme from Scratch + Using myY1themetemplate:
 
 <details>
 
@@ -730,9 +738,16 @@ And just like you, I hold myself to these same standards. If I was to remix some
 
 <a id="how-to-create-a-theme-from-scratch"></a>
 
-To create a theme from scratch, first you make a folder for the theme and name it anything you would like. Then, you decide if you want everything all in one folder, or if you want to organize things. Either way provides the same end result. 
+To create a theme from scratch, first you make a folder for the theme and name it anything you would like. Then, you decide if you want everything all in one folder, or if you want to organize things. Either way provides the same end result.  
 
-If you'd prefer a more organized method, the folder structure that I use for my own themes is below. Using this folder structure is not required in any way, and is only included as an example that you are welcome to adopt in your own themes. If you do not prefer this method, all you need is your one theme folder and you can skip ahead.
+Included in this repo is a template theme folder called myY1themetemplate, with:
+- fully organized folders for all your theme assets
+- a config file ready for you to fill in, that already has correct file paths to the folder structure
+- a blank license file
+
+The folder structure from myY1themetemplate (which is the same template I use for my own themes) is below.
+
+Using this folder structure is not required in any way, and is only included as an example that you are welcome to adopt in your own themes. You can design your own folder structure, as long as you update the config to have the correct file paths. If you do not prefer this method, all you need is your one theme folder and you can skip ahead.
 
 Inside the main theme folder:
 
@@ -1044,8 +1059,8 @@ I don't see the images I chose for my theme on my Y1: if your chosen images don'
 
 ---
 
-### Note from the Dev:
+### Developer Note:
 
-If anyone has any questions at all or needs help, feel free to reach out 🫶🏻
+If anyone has any questions at all or needs help, feel free to reach out.
 
-If you used this guide in any way to create a theme, please give this post a like and consider a shoutout to mp3li’s theme creating guide in your social media post and/or description where people download it! I hope you all create amazing themes using this documentation and tutorial. Feel free to share anything you've created with me, I'd love to see! 
+If you used this guide in any way to create a theme, please give this repo a star and consider a shoutout to mp3li’s theme creating guide in your social media post and/or description where people download it. I hope you all create amazing themes using this documentation and tutorial. Feel free to share anything you've created with me, I'd love to see.
