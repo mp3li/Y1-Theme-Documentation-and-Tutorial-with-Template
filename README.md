@@ -665,7 +665,7 @@ Using this folder structure is not required in any way, and is only included as 
 
     - key tone on off folder, date and time folder, file ext on off folder, repeat folder, change theme folder, display battery on off folder, clear cache folder, shutdown folder, equalizer folder, shuffle on off folder, arrow folder, mini settings folder, wallpaper mini icon folder, language folder, brightness folder, backlight folder, behind selection folder, timed shutdown folder, shuffle quick folder, key vibration on off folder, factory folder, key lock on off folder
 
-Then you must make the file your Y1 will use to know how every asset will be used on your Y1's screen: the config.json file. A config.json file must be a plain text file. It cannot be a Word document, Google Doc, or PDF renamed to .json. The file must be inside the main theme folder, and it must be named exactly: config.json
+Then you must either use the config.json file in myY1themetemplate or make the file yourself, your Y1 will use this file to know how every asset will be used on your Y1's screen. A config.json file must be a plain text file. It cannot be a Word document, Google Doc, or PDF renamed to .json. The file must be inside the main theme folder, and it must be named exactly: config.json
 
 - On Windows:
     - Open Notepad
@@ -683,7 +683,7 @@ Then you must make the file your Y1 will use to know how every asset will be use
     - Name it config.json
     - Make sure it does not add .txt
 
-After creating your config.json file, you can plug your Y1 into your computer and copy and paste the stock theme folder Melody Muncher onto your computer. This theme uses all config options available. Then you can use use the stock theme config as a template by copy and pasting the contents into your own config file and deleting the filled out parts, resulting in a blank config file ready to be turned into your own theme.
+After creating your config.json file, plug your Y1 into your computer and copy and paste the stock theme folder Melody Muncher onto your computer. This theme uses all config options available. Then you can use use the stock theme config as a template by copy and pasting the contents into your own config file and deleting the filled out parts, resulting in a blank config file ready to be turned into your own theme.
 
 Make sure to check the info in all other sections of this documentation + tutorial for more specifics, like what each line in the config means, how to format the config, tips for file types and image sizes, and more.
 
