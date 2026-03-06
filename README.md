@@ -94,7 +94,7 @@ This guide aims to make sense to both those who have absolutely no idea what the
 
 ### What Every Theme Setting Actually Means:
 
-In this section I'll be going over a theme config file that comes on the Y1 when you first get it, section by section and explaining what 100% of the things actually mean and how they're used in this format:
+In these next 9 sections I'll be going over a theme config file that comes on the Y1 when you first get it, section by section and explaining what 100% of the things actually mean and how they're used in this format:
 
 - Theme option name in simple terms: Easy to understand description of what that theme setting is, does, and/or means
     - The actual line in the config file
