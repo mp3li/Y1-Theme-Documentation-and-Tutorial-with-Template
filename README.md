@@ -13,7 +13,7 @@ Also included in this documentation is a template theme folder called myY1themet
 - a config file ready for you to fill in, that already has correct file paths to the folder structure
 - a blank license file
 
-This documentation and tutorial may not be hosted or shared elsewhere, in whole or in part, and may only be hosted on mp3li official channels. For business inquiries please contact mp3li via official channels such as Github, Patreon, Reddit, or TikTok (socials in bio and bottom of this documentation).
+This documentation may be referenced or linked, but the content itself may not be reposted or mirrored without permission. For business inquiries please contact mp3li via official channels such as Github, Patreon, Reddit, or TikTok (socials in bio and bottom of this documentation).
 
 This documentation and tutorial was initially posted on my Patreon for free and paid members only, and is now public on Github and Patreon. 
 
