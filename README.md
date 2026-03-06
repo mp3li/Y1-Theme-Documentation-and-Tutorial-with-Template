@@ -881,3 +881,11 @@ That list is an array. Think of it like a row of items lined up in order. The Y1
 If anyone has any questions at all or needs help, feel free to reach out.
 
 If you used this guide in any way to create a theme, please give this repo a star and consider a shoutout to mp3li’s theme creating guide in your social media post and/or description where people download it. I hope you all create amazing themes using this documentation and tutorial. Feel free to share anything you've created with me, I'd love to see.
+
+#### Connect with me:
+
+- Patreon: https://www.patreon.com/cw/mp3li
+
+- TikTok: https://www.tiktok.com/@mp3li.videos
+
+- Reddit: https://www.reddit.com/user/jasperhooloop/
