@@ -1,0 +1,1 @@
+Write your license file here. Looking up information on how to properly write a professional license file is highly suggested; it's as simple as copy and pasting and then putting your specific theme information into it.
