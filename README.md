@@ -701,7 +701,7 @@ Make sure to check the info in all other sections of this documentation + tutori
 
 <a id="tips-on-file-type-image-sizes-and-color-format"></a>
 
-#### Image Files:
+#### File Types:
 
 - All image files must be .png format (background images, icon images, etc.)
 - Images can include transparency wherever you'd like, not just the outer areas
@@ -719,7 +719,7 @@ Make sure to check the info in all other sections of this documentation + tutori
 
 If you are not sure what hex code to use, most built-in computer photo editors and many in-browser photo editors have a color picker tool. This tool lets you click on any color on your screen and it will show you the exact hex code for that color. It's a very easy way to grab specific colors from wallpapers, icons, or other images you are using in your theme
 
-#### File Types:
+#### Image Files:
 
 - Main menu screen icons and settings screen icons:
     - There is no set required size or aspect ratio required for icons
