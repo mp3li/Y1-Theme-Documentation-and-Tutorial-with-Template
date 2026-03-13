@@ -70,7 +70,7 @@ If you used this guide in any way to create a theme, please give this repo a sta
 
 ### How this Guide is Different from the Other Theme Documentation:
 
-There is already a detailed and technically thorough theme guide in the community, created by a developer whose work I respect. That documentation is an excellent resource for users who want a deeper, more technical view of how the system works.
+There is already a detailed and technically thorough theme guide in the community, which is another resource for users who want a deeper, more technical view of how the system works.
 
 This guide is meant to complement it, not replace it. 
 
